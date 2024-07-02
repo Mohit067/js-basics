@@ -11,6 +11,30 @@ function triangleLeftPattern (n) {
 triangleLeftPattern(10);
 
 
+/*
+
+**********
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
+
+
+ */
+
+
+
+
+
+
+
+
+
 
 // second way
 function triangleLeftPattern (n) {
@@ -23,3 +47,13 @@ function triangleLeftPattern (n) {
         }
     }
 triangleLeftPattern(3);
+
+
+/*
+
+*
+**
+***
+
+
+ */

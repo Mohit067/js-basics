@@ -9,3 +9,15 @@ function squarePattern (n) {
 }
 
 squarePattern(5);
+
+
+
+/*
+
+*****
+*****
+*****
+*****
+*****
+
+*/

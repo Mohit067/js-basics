@@ -14,4 +14,15 @@ function triangleRightPattern (n) {
 }
 
 triangleRightPattern(5)
+
+
+/*
+
+    *
+   ***
+  *****
+ *******
+*********
+
+*/
     

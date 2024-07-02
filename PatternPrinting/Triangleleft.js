@@ -8,6 +8,15 @@ function triangleLeftPattern (n) {
     }
 }
 
-squarePattern(5);
+triangleLeftPattern(5);
 
 
+/*
+
+*
+**
+***
+****
+*****
+
+*/

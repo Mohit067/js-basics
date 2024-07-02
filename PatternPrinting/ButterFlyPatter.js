@@ -66,3 +66,20 @@ function butterFlyPattern (n) {
 }
 
 butterFlyPattern(9);
+
+
+/* 
+
+
+*       *
+**     **
+***   ***
+**** ****
+*********
+**** ****
+***   ***
+**     **
+*       *
+
+
+*/
