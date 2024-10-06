@@ -1,0 +1,27 @@
+#btn{
+    height: 50px;
+    font-size: 20px;
+    width: 150px;
+    background: #b28f2e;
+    border: none;
+    border-radius: 5px;
+}
+#input{
+    height: 45px;
+    width: 350px;
+    font-size: 20px;
+
+}
+#text{
+    height: 500px;
+    width: 500px;
+}
+#load{
+    display: flex;
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
