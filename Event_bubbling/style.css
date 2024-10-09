@@ -1,0 +1,17 @@
+div{
+    background: green;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
+ul{
+    height: 200px;
+    width: 90%;
+    border: 1px solid black;
+    background: goldenrod;
+}
+li{
+    background: gray;
+    width: 50%;
+    height: 20%;
+}

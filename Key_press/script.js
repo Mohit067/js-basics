@@ -5,16 +5,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     const input = document.querySelector("input");
     input.addEventListener("keydown" , (e) => {
-        if(event.code == "KeyU"){
+        if(e.code == "KeyU"){
             logMessage(`${e.key} pressed`)
         }
-        else if(event.code == "KeyD"){
+        else if(e.code == "KeyD"){
             logMessage(`${e.key} pressed`)
         }
-        else if(event.code == "KeyL"){
+        else if(e.code == "KeyL"){
             logMessage(`${e.key} pressed`)
         }
-        else if(event.code == "KeyR"){
+        else if(e.code == "KeyR"){
             logMessage(`${e.key} pressed`)
         }
         else{
